@@ -1,4 +1,4 @@
-# Intel-Edge-AI-IoT-Developers
+# Intel® Edge AI for IoT Developers
 
 Personal repository for Intel Edge AI for IoT Developers
 
